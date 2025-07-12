@@ -7,7 +7,7 @@ It detects some colors (like green, blue, black, pink, and orange) in a video an
 # What the Project Does
 
 - Opens a video.
-- Looks for specific colors using HSV color range.
+-  Looks for specific colors using the HSV color range
 - Draws a rectangle around each color found.
 - Writes the name of the color on top of it.
 
